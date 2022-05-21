@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="430">
 
 ## About me
-<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
-<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> I believe in learning by building and being consistent in what I do. <br>
-<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> Being a polyglt in programming languages feels really great<br>
-<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> Full Stack Front-End , Automation and C++ and Python Development<br>
-<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> Aiming towards Advancing my skills to crack GSOC ✨✨<br>
-<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> When i code it makes me feels like i am playing piano , just that my music notes are key presses and my music is a software tool.
+<img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
+<img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I believe in learning by building and being consistent in what I do. <br>
+<img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> Being a polyglt in programming languages feels really great<br>
+<img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> Full Stack Front-End , Automation and C++ and Python Development<br>
+<img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> Aiming towards Advancing my skills to crack GSOC ✨✨<br>
+<img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> When i code it makes me feels like i am playing piano , just that my music notes are key presses and my music is a software tool.
 
 <br>
 
