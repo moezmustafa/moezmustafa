@@ -1,5 +1,5 @@
 <!--
-**AyeshaSahar/AyeshaSahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Moeez Mustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi , Moeez Here ! <img src="wave.gif" width="130"></h1>
 
-<img align='center' src="main.gif" width="430">
+<img align='center' src="main_alt.gif" width="430">
 
 ## My GitHub Stats 😎
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 
 ## Connect with me ^_^ 
 
-[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://thecodingcompany.hashnode.dev/)
+[<img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />]()
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/acecornball)
-[<img alt="DEV.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/iayeshasahar)
+[<img alt="DEV.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />]()
+[<img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/moeez.mustafa)
+
 
 <br>
 
@@ -95,13 +97,13 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
-- [How to make a fully responsive website without HTML, CSS, or JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-fully-responsive-website-without-html-css-or-javascript)
+<!-- - [How to make a fully responsive website without HTML, CSS, or JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-fully-responsive-website-without-html-css-or-javascript)
 - [Design Principles To Achieve a Better UI/UX Design](https://thecodingcompany.hashnode.dev/design-principles-to-achieve-a-better-uiux-design)
 - [A Complete Guide to Python Dictionaries for Beginners](https://thecodingcompany.hashnode.dev/a-complete-guide-to-python-dictionaries-for-beginners)
 - [How to make a custom file upload button with HTML, CSS, and JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-custom-file-upload-button-with-html-css-and-javascript)
-- [Introducing my first eBook: "Be The Terminal Boss"](https://thecodingcompany.hashnode.dev/introducing-my-first-ebook-be-the-terminal-boss)
+- [Introducing my first eBook: "Be The Terminal Boss"](https://thecodingcompany.hashnode.dev/introducing-my-first-ebook-be-the-terminal-boss) -->
 
 <br>
-
+<!-- 
 ## My GitHub Stats 😎
-![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
+![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true) -->
