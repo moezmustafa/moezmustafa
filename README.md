@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 <h1 align="center">Moeez Here , Hi ! <img src="wave.gif" width="130"></h1>
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="430">
 
+## My GitHub Stats 😎
+![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
+
+
 ## About me
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I believe in learning by building and being consistent in what I do. <br>
