@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Moeez Here , Hi ! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/kbu8xsXRJZVtNqveKw/giphy.gif" width="430">
+<img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="430">
 
 ## About me
-<img height="20" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
-<img height="20" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> I believe in learning by building and being consistent in what I do. <br>
-<img height="20" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> Being a polyglt in programming languages feels really great<br>
-<img height="20" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> Full Stack Front-End , Automation and C++ and Python Development<br>
-<img height="20" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> Aiming towards Advancing my skills to crack GSOC ✨✨<br>
-<img height="20" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> When i code it makes me feels like i am playing piano , just that my music notes are key presses and my music is a software tool.
+<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
+<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> I believe in learning by building and being consistent in what I do. <br>
+<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> Being a polyglt in programming languages feels really great<br>
+<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> Full Stack Front-End , Automation and C++ and Python Development<br>
+<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> Aiming towards Advancing my skills to crack GSOC ✨✨<br>
+<img height="20" src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif"> When i code it makes me feels like i am playing piano , just that my music notes are key presses and my music is a software tool.
 
 <br>
 
