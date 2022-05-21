@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Moeez Here , Hi ! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"></h1>
+<h1 align="center">Moeez Here , Hi ! <img src="wave.gif" width="90"></h1>
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="430">
 
 ## About me
