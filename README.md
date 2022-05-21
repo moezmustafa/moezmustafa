@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Moeez Here , Hi ! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"></h1>
-<img align='right' src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 
 ## About me
 <img height="20" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
