@@ -108,12 +108,10 @@ Here are some ideas to get you started:
 
 ## My Recent Blog posts ✍️
 
-<!-- - [How to make a fully responsive website without HTML, CSS, or JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-fully-responsive-website-without-html-css-or-javascript)
-- [Design Principles To Achieve a Better UI/UX Design](https://thecodingcompany.hashnode.dev/design-principles-to-achieve-a-better-uiux-design)
-- [A Complete Guide to Python Dictionaries for Beginners](https://thecodingcompany.hashnode.dev/a-complete-guide-to-python-dictionaries-for-beginners)
-- [How to make a custom file upload button with HTML, CSS, and JavaScript](https://thecodingcompany.hashnode.dev/how-to-make-a-custom-file-upload-button-with-html-css-and-javascript)
-- [Introducing my first eBook: "Be The Terminal Boss"](https://thecodingcompany.hashnode.dev/introducing-my-first-ebook-be-the-terminal-boss) -->
-
+ [Rubber Ducky Method](https://moezmustafa.medium.com/rubber-ducky-method-f80907a83853)
+- [Learned Git/GitHub in 3 days](https://moezmustafa.medium.com/learned-git-github-in-3-days-b1eb3deca0da)
+- [JavaScript Versions: ES6 and Before](https://moezmustafa.medium.com/javascript-versions-es6-and-before-4182e8a43626)
+- [Bash Scripting : Get Started !](https://moezmustafa.medium.com/bash-scripting-get-started-89d5e3756cc9)
 <br>
 <!-- 
 ## My GitHub Stats 😎
