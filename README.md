@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
 
-<p align="center">
-    <a href="https://github.com/moezmustafa">
-        <img title="Streak Stats" alt="M Zaeem Nasir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moezmustafa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<br>
 <a href="https://github.com/moezmustafa"><img alt="M Zaeem Nasir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=moezmustafa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 </p>
@@ -123,6 +116,13 @@ Here are some ideas to get you started:
 [<img alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/moeez.mustafa)
 
 <br>
+
+## GitHub Streak 🔥🔥
+<p align="center">
+    <a href="https://github.com/moezmustafa">
+        <img title="Streak Stats" alt="M Zaeem Nasir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moezmustafa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <!-- 
 ## My GitHub Stats 😎
