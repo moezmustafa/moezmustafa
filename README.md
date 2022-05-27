@@ -20,8 +20,7 @@ Here are some ideas to get you started:
  <img align='center' src="main.gif" width="430"> 
 </p>
 <h2> 
- <br>
-## My GitHub Stats 🚀
+ ## My GitHub Stats 🚀
 
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
 
