@@ -124,6 +124,12 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+## ❤ Views and Followers
+
+<a href="https://github.com/moezmustafa/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=moezmustafa">
+</a>
+<a href="https://github.com/moezmustafa?tab=followers"><img src="https://img.shields.io/github/followers/moezmustafa?label=Followers&style=social" alt="GitHub Badge"></a>
 <!-- 
 ## My GitHub Stats 😎
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true) -->
