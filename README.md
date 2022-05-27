@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi , Moeez Here ! <img src="wave.gif" width="130"></h1>
 
-<img align='center' src="main.gif" width="130"
+<!-- <img align='center' src="main.gif" width="130"> -->
+<h2> <img align='center' src="main.gif" width="130"> 
 
-![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)>
+![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
+
+ </h2>
+
+<!-- ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true) -->
 
 
 ## About me
