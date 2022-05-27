@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi , Moeez Here ! <img src="wave.gif" width="130"></h1>
+<h1 align="center">Hi , Moeez Here !
+  <p align="center">
+    <img src="wave.gif" width="130"></h1>
+  </p>
 
 <!-- <img align='center' src="main.gif" width="130"> -->
 <h2> <img align='center' src="main.gif" width="430"> 
