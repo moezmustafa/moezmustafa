@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi , Moeez Here !</h1>
-  <p align=center>
-    <img src="wave.gif" width="130">
-  </p>
+<h1 align="center">Hi , Moeez Here !<img src="wave.gif" width="130"></h1>
+
 
 <!-- <img align='center' src="main.gif" width="130"> -->
-<h2> <img align='center' src="main.gif" width="430"> 
-
+<p align=center>
+ <img align='center' src="main.gif" width="430"> 
+</p>
+<h2> 
 ## My GitHub Stats 🚀
 
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
