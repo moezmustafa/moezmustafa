@@ -20,8 +20,7 @@ Here are some ideas to get you started:
  <img align='center' src="main.gif" width="430"> 
 </p>
 <h2> 
- ## My GitHub Stats 🚀
-<br> 
+ 
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
 
 <a href="https://github.com/moezmustafa"><img alt="M Zaeem Nasir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=moezmustafa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
