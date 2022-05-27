@@ -23,7 +23,11 @@ Here are some ideas to get you started:
 
 <!-- ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true) -->
 
+<p> 
+<img align='center' src="main.gif" width="130"> 
+![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
 
+</p>
 ## About me
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I believe in learning by building and being consistent in what I do. <br>
