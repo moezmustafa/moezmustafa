@@ -15,17 +15,25 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , Moeez Here !<img src="wave.gif" width="130"></h1>
 
 
+
+
 <!-- <img align='center' src="main.gif" width="130"> -->
 <p align=center>
  <img align='center' src="main.gif" width="430"> 
-</p>
+<!-- </p>
 <h2> 
  
 ![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
 
 <a href="https://github.com/moezmustafa"><img alt="M Zaeem Nasir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=moezmustafa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+</p> -->
+ 
+ <h2>
+ <p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 ## About me
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I believe in learning by building and being consistent in what I do. <br>
@@ -42,15 +50,16 @@ Here are some ideas to get you started:
 - [Learned Git/GitHub in 3 days](https://moezmustafa.medium.com/learned-git-github-in-3-days-b1eb3deca0da)
 - [JavaScript Versions: ES6 and Before](https://moezmustafa.medium.com/javascript-versions-es6-and-before-4182e8a43626)
 - [Bash Scripting : Get Started !](https://moezmustafa.medium.com/bash-scripting-get-started-89d5e3756cc9)
+- [Build a Website in 20min : React Bricks !](https://moezmustafa.medium.com/react-bricks-create-a-site-in-20min-448be5ec1df4)
 
 <br>
 
-## Challanges Ive Done 
+<!-- ## Challanges Ive Done 
 
 [![Challenge | 100 Days of Code](https://img.shields.io/static/v1?label=Challenge&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.100daysofcode.com)
 
-<br>
-
+<br> -->
+<!-- 
 ## Tech Stack 🚀
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -71,14 +80,14 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br>
+<br> -->
 
 
 
 
 
 
-<br>
+<!-- <br>
 
 ## Design Stack
 ![After_effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
@@ -87,9 +96,9 @@ Here are some ideas to get you started:
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![premier](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+ -->
 
-
-## Ui/Ux Stack
+<!-- ## Ui/Ux Stack
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -97,11 +106,11 @@ Here are some ideas to get you started:
 ![sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 
+ -->
 
 
 
-
-## Tools I Use ✨
+<!-- ## Tools I Use ✨
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -113,7 +122,7 @@ Here are some ideas to get you started:
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<br>
+<br> -->
 
 
 ## Connect with me 🤙
@@ -128,7 +137,7 @@ Here are some ideas to get you started:
 ## GitHub Streak 🔥🔥
 <p align="center">
     <a href="https://github.com/moezmustafa">
-        <img title="Streak Stats" alt="M Zaeem Nasir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moezmustafa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Streak Stats" alt="Moeez Mustafa Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moezmustafa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
