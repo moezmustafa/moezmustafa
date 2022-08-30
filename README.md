@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 </p> -->
  
  <h2>
- <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/moezmustafa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+
+  <p align="center">
+  <img src="https://github.com/moezmustafa/moezmustafa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
 
 ## About me
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
