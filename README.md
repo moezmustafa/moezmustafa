@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 </p> -->
  
- <h2>
+<!--  <h2>
 
   <p align="center">
   <img src="https://github.com/moezmustafa/moezmustafa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
+ -->
 
 ## About me
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> I am a Designer Turned Programmer , I code and work in the domain of automation<br>
@@ -149,6 +149,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=moezmustafa">
 </a>
 <a href="https://github.com/moezmustafa?tab=followers"><img src="https://img.shields.io/github/followers/moezmustafa?label=Followers&style=social" alt="GitHub Badge"></a>
-<!-- 
+
 ## My GitHub Stats 😎
-![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true) -->
+![Moeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=moezmustafa&theme=cobalt&show_icons=true)
