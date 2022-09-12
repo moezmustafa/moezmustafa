@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <br>
 
 ## My Recent Blog posts ✍️
-
-- [Rubber Ducky Method](https://moezmustafa.medium.com/rubber-ducky-method-f80907a83853)
-- [Learned Git/GitHub in 3 days](https://moezmustafa.medium.com/learned-git-github-in-3-days-b1eb3deca0da)
-- [JavaScript Versions: ES6 and Before](https://moezmustafa.medium.com/javascript-versions-es6-and-before-4182e8a43626)
-- [Bash Scripting : Get Started !](https://moezmustafa.medium.com/bash-scripting-get-started-89d5e3756cc9)
-- [Build a Website in 20min : React Bricks !](https://moezmustafa.medium.com/react-bricks-create-a-site-in-20min-448be5ec1df4)
 - [Free Website Hosting ! with GitHub Pages](https://moezmustafa.medium.com/free-website-hosting-with-github-pages-4ebeedbd8d82)
+- [Build a Website in 20min : React Bricks !](https://moezmustafa.medium.com/react-bricks-create-a-site-in-20min-448be5ec1df4)
+- [Bash Scripting : Get Started !](https://moezmustafa.medium.com/bash-scripting-get-started-89d5e3756cc9)
+- [JavaScript Versions: ES6 and Before](https://moezmustafa.medium.com/javascript-versions-es6-and-before-4182e8a43626)
+- [Learned Git/GitHub in 3 days](https://moezmustafa.medium.com/learned-git-github-in-3-days-b1eb3deca0da)
+- [Rubber Ducky Method](https://moezmustafa.medium.com/rubber-ducky-method-f80907a83853)
+
 
 <br>
 
