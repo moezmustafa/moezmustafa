@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - [JavaScript Versions: ES6 and Before](https://moezmustafa.medium.com/javascript-versions-es6-and-before-4182e8a43626)
 - [Bash Scripting : Get Started !](https://moezmustafa.medium.com/bash-scripting-get-started-89d5e3756cc9)
 - [Build a Website in 20min : React Bricks !](https://moezmustafa.medium.com/react-bricks-create-a-site-in-20min-448be5ec1df4)
+- [Free Website Hosting ! with GitHub Pages](https://moezmustafa.medium.com/free-website-hosting-with-github-pages-4ebeedbd8d82)
 
 <br>
 
