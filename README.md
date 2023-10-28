@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 
 <br>
 
+[![An image of @moezmustafa4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moezmustafa4)](https://holopin.io/@moezmustafa4)
+
+<br>
+
 ## My Recent Blog posts ✍️
 - [Free Website Hosting ! with GitHub Pages](https://moezmustafa.medium.com/free-website-hosting-with-github-pages-4ebeedbd8d82)
 - [Build a Website in 20min : React Bricks !](https://moezmustafa.medium.com/react-bricks-create-a-site-in-20min-448be5ec1df4)
