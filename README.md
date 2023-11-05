@@ -45,9 +45,13 @@ Here are some ideas to get you started:
 <img height="30" src="https://media.giphy.com/media/eKbJSqshfVXbMTdLKN/giphy.gif"> When i code it makes me feels like i am playing piano , just that my music notes are key presses and my music is a software tool.
 
 <br>
+<br>
+
+## Hacktoberfest Badges 
 
 [![An image of @moezmustafa4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moezmustafa4)](https://holopin.io/@moezmustafa4)
 
+<br>
 <br>
 
 ## My Recent Blog posts ✍️
