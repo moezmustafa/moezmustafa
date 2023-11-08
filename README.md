@@ -146,14 +146,7 @@ Here are some ideas to get you started:
 <br>
 
 ## GitHub Streak 🔥🔥
-<p align="center">
-    <a href="https://github.com/moezmustafa">
-        <img title="Streak Stats" alt="Moeez Mustafa Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=moezmustafa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=moezmustafa)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=moezmustafa" alt="GitHub Streak" /></a>
 
 ## ❤ Views and Followers
 
