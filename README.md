@@ -148,7 +148,7 @@ Here are some ideas to get you started:
 ## GitHub Streak 🔥🔥
 
 
-<p>[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)</p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com?user=moezmustafa)](https://git.io/streak-stats)</p>
 
 ## ❤ Views and Followers
 
