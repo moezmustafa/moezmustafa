@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 <br>
 
 ## GitHub Streak 🔥🔥
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=moezmustafa" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=moezmustafa)](https://git.io/streak-stats)
 
 ## ❤ Views and Followers
 
