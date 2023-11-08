@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?moezmustafa=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=moezmustafa)](https://git.io/streak-stats)
 
 ## ❤ Views and Followers
 
