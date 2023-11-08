@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 <br>
 
 ## GitHub Streak 🔥🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=moezmustafa)](https://git.io/streak-stats)
+
 
 <p>[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)</p>
 
