@@ -148,8 +148,8 @@ Here are some ideas to get you started:
 ## GitHub Streak 🔥🔥
 
 
-<p>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=moezmustafa" alt="GitHub Streak" /></a>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=moezmustafa"/></a>
 </p>
 
 ## ❤ Views and Followers
