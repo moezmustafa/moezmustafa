@@ -31,6 +31,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 ---
+[![An image of @moezmustafa4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/moezmustafa4)](https://holopin.io/@moezmustafa4)
+
+---
 
 ## ✍️ Blog Posts
 - [Free Website Hosting with GitHub Pages](https://moezmustafa.medium.com/free-website-hosting-with-github-pages-4ebeedbd8d82)  
